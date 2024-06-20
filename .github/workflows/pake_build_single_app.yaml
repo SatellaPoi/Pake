@@ -81,6 +81,8 @@ jobs:
           TITLE: ${{ inputs.title }}
           NAME_ZH: ${{ inputs.name_zh }}
           URL: ${{ inputs.url }}
+          WIDTH: '1024'
+          HEIGHT: '768'
         run: |
           npm install
           npm run build:config
