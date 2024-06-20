@@ -1,6 +1,12 @@
 {
   "apps": [
     {
+      "name": "manager",
+      "title": "Manager",
+      "name_zh": "中油北斗管理平台",
+      "url": "https://manager.4006820016.com/"
+    },
+    {
       "name": "programmusic",
       "title": "ProgramMusic",
       "name_zh": "ProgramMusic",
